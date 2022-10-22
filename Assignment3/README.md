@@ -22,10 +22,10 @@
 ## #1 Run
 
 - 패키지는 `pip install -r requirements.txt` 로 설치하면 된다.
-  - <img src="https://hconnect.hanyang.ac.kr/2022_ite4005_13026/2022_ite4005_2017029589/-/raw/master/Assignment3/install.png" alt="install" style="zoom:50%;" />
+  - <img src="https://github.com/llordly/ITE4005/blob/master/Assignment3/install.png?raw=true" alt="install" style="zoom:50%;" />
 
 - 소스 코드와 input 파일이 있는 폴더에서 `python clustering.py input#.txt n Eps MinPts` 의 형태로 실행하면 된다.
-  - <img src="https://hconnect.hanyang.ac.kr/2022_ite4005_13026/2022_ite4005_2017029589/-/raw/master/Assignment3/execute.png" alt="install" style="zoom:50%;" />
+  - <img src="https://github.com/llordly/ITE4005/blob/master/Assignment3/execute.png?raw=true" alt="install" style="zoom:50%;" />
 
 
 
@@ -192,7 +192,7 @@
 
   
 
-  <img src="https://hconnect.hanyang.ac.kr/2022_ite4005_13026/2022_ite4005_2017029589/-/raw/master/Assignment3/result.png" alt="install" style="zoom:50%;" />
+  <img src="https://github.com/llordly/ITE4005/blob/master/Assignment3/result.png?raw=true" alt="install" style="zoom:50%;" />
 
   - input1.txt의 경우 한 cluster가 절반의 크기를 차지하고 있어, 실행시간이 약 33s 정도 걸렸다.
   - input2.txt와 input3.txt는 1초 미만의 짧은 수행시간을 보여주었다.

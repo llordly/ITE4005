@@ -19,7 +19,7 @@
 - 소스 코드와 input 파일이 있는 폴더에서 `python apriori.py min_sup input.txt output.txt` 의 형태로 실행하면 된다.
 - Min_sup의 값을 5로 할 경우 `python apriori.py 5 input.txt output.txt` 로 실행하면 된다.
 
-![run](/Users/lordly/Desktop/Hanyang/2022_1학기/Data Science/Assignment1/run.png)
+![run](https://github.com/llordly/ITE4005/blob/master/Assignment1/run.png?raw=true)
 
 ## #2 Code & Function Description
 
@@ -198,6 +198,6 @@
 
   
 
-  <img src="/Users/lordly/Desktop/Hanyang/2022_1학기/Data Science/Assignment1/output.png" alt="output" style="zoom:50%;" />
+  <img src="https://github.com/llordly/ITE4005/blob/master/Assignment1/output.png?raw=true" alt="output" style="zoom:50%;" />
 
 - 총 1066 line이 출력됐고, min_sup를 만족하는 모든 association rule이 잘 출력되었다.

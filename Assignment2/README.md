@@ -23,11 +23,11 @@
 
 - 패키지는 `pip install -r requirements.txt` 로 설치하면 된다.
 
-- ![](https://hconnect.hanyang.ac.kr/2022_ite4005_13026/2022_ite4005_2017029589/-/raw/master/Assignment2/run.png)
+- ![](https://github.com/llordly/ITE4005/blob/master/Assignment2/run.png?raw=true)
 
 - 소스 코드와 input 파일이 있는 폴더에서 `python decision.py dt_train.txt dt_test.txt dt_result.txt` 의 형태로 실행하면 된다.
 
-- ![run](https://hconnect.hanyang.ac.kr/2022_ite4005_13026/2022_ite4005_2017029589/-/raw/master/Assignment2/requirement.png)
+- ![run](https://github.com/llordly/ITE4005/blob/master/Assignment2/requirement.png?raw=true)
 
 
 
@@ -240,13 +240,13 @@
 
   
 
-  <img src="https://hconnect.hanyang.ac.kr/2022_ite4005_13026/2022_ite4005_2017029589/-/raw/master/Assignment2/dt_test.png" alt="output" style="zoom:50%;" />
+  <img src="https://github.com/llordly/ITE4005/blob/master/Assignment2/dt_test.png?raw=true" alt="output" style="zoom:50%;" />
 
   - 정답과 비교해보았을 때 100%의 accuracy를 보여주고 있다.
 
 - dt_test1.txt는 다음과 같은 형태로 출력됐다.
 
-  <img src="https://hconnect.hanyang.ac.kr/2022_ite4005_13026/2022_ite4005_2017029589/-/raw/master/Assignment2/dt_test1.png" alt="output" style="zoom:50%;" />
+  <img src="https://github.com/llordly/ITE4005/blob/master/Assignment2/dt_test1.png?raw=true" alt="output" style="zoom:50%;" />
 
   - 정답과 비교해보았을 때 91.9075144508671%의 accuracy를 보이고 있다.
 
